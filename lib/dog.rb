@@ -1,7 +1,6 @@
 class 
   
-  attr_accessor :name, :breed
-  end
+attr_accessor :variable_one, :variable_two  end
   
   def breed(name = Mutt)
 		@breed = breed
